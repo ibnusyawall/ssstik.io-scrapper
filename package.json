@@ -1,0 +1,14 @@
+{
+  "name": "ssstik.io-scrapper",
+  "version": "1.0.0",
+  "description": "Ssstik.io Scrapper - Tiktok Downloader",
+  "main": "index.js",
+  "repository": "https://github.com/ibnusyawall/ssstik.io-scrapper.git",
+  "author": "ibnusyawall <website.isas.24@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0"
+  }
+}
