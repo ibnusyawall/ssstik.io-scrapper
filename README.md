@@ -19,9 +19,8 @@ $ node . <tiktok_url>
 
 ## Contact
 
-- Email: [website.isas.24@gmail.com](mailto:website.isas.24@gmail.com)
-- LinkedIn: [@isywl](https://linkedin.com/in/isywl)
-- WhatsApp: [+6285157711053](https://wa.me/6285157711053)
+- Email: [redxalvi@gmail.com](mailto:redxalvi@gmail.com)
+- WhatsApp: [+8801854123433](https://wa.me/+8801854123433)
 
 <!-- License -->
 
